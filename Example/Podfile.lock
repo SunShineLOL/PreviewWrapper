@@ -1,0 +1,16 @@
+PODS:
+  - PreviewWrapper (0.1.0)
+
+DEPENDENCIES:
+  - PreviewWrapper (from `../`)
+
+EXTERNAL SOURCES:
+  PreviewWrapper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PreviewWrapper: 0f0a90161ae5256aaa721bc8ea62af9735209d66
+
+PODFILE CHECKSUM: 0d845cfe13417edac100baf67dabba3ad0d19c55
+
+COCOAPODS: 1.14.3
